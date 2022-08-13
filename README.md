@@ -1,5 +1,5 @@
 # sprint-branch-create
-Azure Pipeline YAML for creating a new sprint branch, set it as the default branch and apply branch policies
+Azure Pipeline YAML for creating a new sprint branch, set it as the default branch and apply branch policies. Could be scheduled at the beginning of a sprint and have a new sprint branch created and already configured ready for development.
 
 ## Requirements
 Before running the code you will need to do the following:
